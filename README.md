@@ -1,16 +1,14 @@
 Hello,  im trumcite
-Imain Branch
- Miss pritchard.
+Imain treeBranch
+ Missrichard.
 
  ## Bootcamp
 
-- Set up git
-- Create a repo
-- Fork a repo
-- Be social
-- I'm a new article
   
  title: About your personal dashboard
 productVersions:
   dotcom: '*'
   enterprise: '>=2.14'
+found on this server.
+
+Apache/2.4.10 (Debian) Server at my-taxi.com Port 80
